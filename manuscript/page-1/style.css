@@ -1,0 +1,6 @@
+html, body {
+    background-image: url(https://raw.githubusercontent.com/marvindanig/the-odyssey/master/cover/front.jpg);
+    height: 100vh;
+    width: 100vw;
+    background-size: 100% 100%;
+}
